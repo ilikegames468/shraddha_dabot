@@ -24,15 +24,15 @@ Hi {}, my name is {}! If you have any questions on how to use me, read /help .
 I'm a group manager bot maintained by [This Guy](tg://user?id={}). I'm built in python3, using the \
 python-telegram-bot library!
 
-Feel free to submit pull requests on github, or contact @aditya19v
+Feel free to submit pull requests oror contact @aditya19v
 , with any bugs, questions 
-or feature requests you have | Also have a news channel, @saraakhelp for announcements on new features, downtime, etc.
+or feature requests you have.
 
 You can find the list of available commands with /help.
 
 
 
-[Click here to add me in your groups](https://telegram.me/Saraak_bot?startgroup=add)
+[Click here to add me in your groups](https://telegram.me/Shraddha_dabot?startgroup=add)
 """
 
 HELP_STRINGS = """
