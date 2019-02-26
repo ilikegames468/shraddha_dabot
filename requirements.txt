@@ -12,6 +12,7 @@ demjson
 PyLyrics
 wget
 gTTS
+pynewtonmath
 telegram
 zalgo_text
 feedparser
