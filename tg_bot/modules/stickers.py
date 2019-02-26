@@ -200,4 +200,4 @@ KANG_HANDLER = DisableAbleCommandHandler("kang", kang, pass_args=True, admin_ok=
 dispatcher.add_handler(STICKERID_HANDLER)
 dispatcher.add_handler(GETSTICKER_HANDLER)
 dispatcher.add_handler(KANG_HANDLER)
-© 2019 GitHub, In
+
